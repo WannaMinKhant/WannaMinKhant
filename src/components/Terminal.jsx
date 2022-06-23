@@ -18,7 +18,6 @@ const Terminal = () => {
   return (
 
     <div className='flex flex-col bg-gray-900  h-full'>
-      <div className='flex flex-row justify-center text-white font-bold text-xl lg:text-5xl pt-12 md:pb-2'>Hi, There</div> 
       <div className='flex flex-row justify-center text-white font-bold text-xl lg:text-5xl pt-6 md:pb-2'>I'm Aung Min Khant</div> 
       <div className='flex flex-row justify-center text-green-200 font-bold text-lg lg:text-4xl pt-4 md:pb-6'>{myText}</div>
     <div className='flex flex-col md:flex-row bg-gray-900 md:h-screen h-full'>
@@ -154,7 +153,7 @@ const Terminal = () => {
     </div>  
     </div>
 
-    <div className='flex flex-row justify-center'>
+    <div className='flex flex-row justify-center text-white text-lg'>
       Made with React and Tailwindcss
     </div>
   </div>
