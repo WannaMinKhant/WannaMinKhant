@@ -153,7 +153,7 @@ const Terminal = () => {
     </div>  
     </div>
 
-    <div className='flex flex-row justify-center text-white text-lg'>
+    <div className='flex flex-row justify-center text-white text-lg py-6'>
       Made with React and Tailwindcss
     </div>
   </div>
