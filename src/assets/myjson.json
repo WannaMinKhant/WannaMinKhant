@@ -1,0 +1,14 @@
+[
+  {
+    name: "aung min khant",
+    age:29,
+    weight: 144,
+     height: "168 cm"
+  },
+  { 
+    name: "mg mg",
+    age: 22,
+    weight: 130,
+    height:"165 cm"
+  }
+]
